@@ -11,3 +11,4 @@ const PromotionsContainer = () => {
 };
 
 export default PromotionsContainer;
+
