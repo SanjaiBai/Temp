@@ -25,3 +25,4 @@ const RedeemPoints = ({ pointBalance }) => {
 };
 
 export default RedeemPoints;
+
