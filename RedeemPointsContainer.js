@@ -8,3 +8,4 @@ const RedeemPointsContainer = () => {
 };
 
 export default RedeemPointsContainer;
+
